@@ -1,5 +1,5 @@
-import turtle
-from turtlelab4 import check
+from turtlelab4 import turtle,check
+
 
 def draw_square(size):
     turtle.left(90)
